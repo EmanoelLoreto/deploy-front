@@ -1,0 +1,71 @@
+fieldset {
+    margin: 12px;
+    padding: 12px;
+}
+
+fieldset legend {
+    font-weight: bolder;
+    font-size: 24px; 
+}
+
+.usuario-delete{
+    margin: 20px auto 0;
+    padding: 0 20px;
+    max-width: 700px;
+}
+
+.usuario-delete article{
+    background: #eff2f4;
+    border: 1px solid black; 
+    border-radius: 5px;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 20px;
+}
+ 
+.usuario-delete article p{
+    font-size: 16px;
+    color: #256347;
+    line-height: 24px;
+}
+
+.usuario-delete article button{
+    height: 42px;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid black;
+    background: none;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.usuario-delete article button:hover{
+    background: #45b382;
+    color: #fff;
+}
+
+.usuario-delete article a{
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background: none;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.usuario-delete article a:hover{
+    background: #45b382;
+    color: #fff;
+}
+

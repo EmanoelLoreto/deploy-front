@@ -1,0 +1,55 @@
+.usuario-list{
+    margin: 20px auto 0;
+    padding: 0 20px;
+    max-width: 700px;
+    text-align: center;
+}
+
+.usuario-list p a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    border: 2px solid;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.usuario-list p a:hover{
+    background: #45b382;
+    color: #fff;
+}
+
+.usuario-list article{
+    background: #eff2f4;
+    border: 1px solid black; 
+    border-radius: 5px;
+    padding: 20px 20px 0px 20px;
+    margin-bottom: 20px;
+}
+
+.usuario-list article p{
+    font-size: 16px;
+    color: #256347;
+    line-height: 24px;
+}
+
+.usuario-list article a{
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background: none;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.usuario-list article a:hover{
+    background: #45b382;
+    color: #fff;
+}
+

@@ -1,0 +1,11 @@
+:root {
+    --green-trybe: #45b382;
+  }
+  
+  body {
+    margin: 0;
+    background-color: #fafafa;
+    color: #333;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
